@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>LiveConnect</h2>
+                    <h2>Live_Connect</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>

@@ -10,7 +10,7 @@ export default function LandingPage() {
         <div className='landingPageContainer'>
             <nav>
                 <div className='navHeader'>
-                    <h2>LiveConnect</h2>
+                    <h2>Live_Connect</h2>
                 </div>
                 <div className='navlist'>
                     <p onClick={() => {
